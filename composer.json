@@ -1,0 +1,17 @@
+{
+    "name": "mrrobot/lesson-patterns",
+    "authors": [
+        {
+            "name": "mrrobot",
+            "email": "prostomax530@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
